@@ -1143,11 +1143,11 @@ if __name__ == "__main__":
         message = requests.get(path)
         assert( message.status_code == 200 )
 
+        html = BeautifulSoup(message.text, 'html.parser')
     except:
         print("Your path was invalid. Please enter a valid path.")
         exit(1)
 
-    html = BeautifulSoup(message.text, 'html.parser')
 
     data = []
 
