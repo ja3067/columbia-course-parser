@@ -1,0 +1,195 @@
+COMPUTING IN CONTEXT
+
+Section 001 TR 2:40pm-3:55pm (313/300) Adam H Cannon (silver)
+
+INTRO-COMPUT SCI/PROG IN JAVA
+
+Section 001 TR 4:10pm-5:25pm (302/400) Adam H Cannon (silver)
+
+HONORS INTRO TO COMPUTER SCI
+
+Section 001 TR 1:10pm-2:25pm (18/70) John R Kender (silver)
+
+EMERGING SCHOLARS PROG SEMINAR
+
+
+PROGRAMMING LANGUAGES
+
+Section 001 R 6:10pm-8:00pm (7/30) Dimitri Kopaliani
+Section 002 R 6:10pm-8:00pm (25/46) Ramana Isukapalli
+Section 003 W 6:10pm-8:00pm (50/50) Lawrence Stead
+
+DEVELOPMENT TECHNOLOGY
+
+Section 001 F 2:10pm-4:00pm (8/30) Gary Zamchick
+Section 002 F 2:10pm-4:00pm (4/30) Gary Zamchick
+Section 003 T 6:10pm-8:00pm (6/40) Robert E Coyne
+Section 004 W 6:10pm-8:00pm (7/40) Robert E Coyne
+Section 005 M 4:10pm-6:00pm (27/45) Andrew A Hitti
+
+DATA STRUCTURES IN JAVA
+
+Section 001 MW 5:40pm-6:55pm (172/200) Paul S Blaer (silver)
+Section 002 TR 1:10pm-2:25pm (183/200) Paul S Blaer (silver)
+
+ESSENTIAL DATA STRUCTURES
+
+Section 001 TR 5:40pm-6:55pm (51/120) Timothy K Paine
+
+ADVANCED PROGRAMMING
+
+Section 001 TR 11:40am-12:55pm (164/180) Jae W Lee (silver)
+Section 002 TR 4:10pm-5:25pm (149/180) Jae W Lee (silver)
+
+DISCRETE MATHEMATICS
+
+Section 001 TR 10:10am-11:25am (150/150) Ansaf Salleb-Aouissi
+Section 002 TR 11:40am-12:55pm (150/150) Ansaf Salleb-Aouissi
+
+COMPUTER SCIENCE THEORY
+
+Section 001 MW 2:40pm-3:55pm (110/125) Xi Chen
+Section 002 MW 4:10pm-5:25pm (103/135) Xi Chen
+
+INTRODUCTION TO DATABASES
+
+Section 001 F 10:10am-12:40pm (154/140) Donald F Ferguson
+Section 002 TR 4:10pm-5:25pm (0/150) Eugene Wu
+Section 003 M 4:10pm-6:40pm (80/80) Alexandros Biliris
+
+FUND-LARGE-SCALE DIST SYSTEMS
+
+Section 001 MW 1:10pm-2:25pm (113/110) Roxana Geambasu
+
+PROGRAMMING LANG & TRANSLATORS
+
+Section 001 MW 4:10pm-5:25pm (115/115) Stephen A Edwards (silver)
+Section 002 MW 1:10pm-2:25pm (5/54) Baishakhi Ray
+
+OPERATING SYSTEMS I
+
+Section 001 TR 1:10pm-2:25pm (95/110) Jason Nieh (silver)
+
+ADVANCED SOFTWARE ENGINEERING
+
+Section 001 TR 10:10am-11:25am (123/120) Gail E Kaiser
+
+COMPUTER ANIMATION
+
+Section 001 T 4:10pm-6:00pm (30/60) Eitan Grinspun (silver)
+
+USER INTERFACE DESIGN
+
+Section 001 TR 1:10pm-2:25pm (0/65) Steven K Feiner
+
+SECURITY I
+
+Section 001 MW 2:40pm-3:55pm (53/70) Suman Jana
+
+MALWARE ANALYSIS&REVERSE ENGINEERING
+
+Section 001 R 4:10pm-6:40pm (29/30) Michael S Sikorski
+
+SECURITY ARCH & ENGINEERING
+
+Section 001 F 10:10am-12:40pm (10/70) Debra L Cook
+
+INTRO-COMPUTATIONAL COMPLEXITY
+
+Section 001 MW 10:10am-11:25am (42/50) Omri Weinstein
+
+INTRO-COMPUTATIONAL LEARN THRY
+
+Section 001 TR 8:40am-9:55am (87/80) Rocco Servedio (gold)
+
+INTRO TO CRYPTOGRAPHY
+
+Section 001 MW 7:10pm-8:25pm (86/100) Allison Bishop
+
+PROGRAMMING & PROBLEM SOLVING
+
+Section 001 MW 1:10pm-2:25pm (0/30) Kenneth A Ross
+
+PRIN-INNOVATN/ENTREPRENEURSHIP
+
+Section 001 F 10:10am-12:40pm (32/32) William Reinisch
+
+INTRO-COMP APPL-HLTH CRE/
+
+Section 001 MW 4:10pm-5:25pm (21 students as of August 30, 2018) Nicholas Tatonetti
+
+ARTIFICIAL INTELLIGENCE
+
+Section 001 TR 10:10am-11:25am (205/189) Tony B Dear
+Section 002 TR 5:40pm-6:55pm (102/100) Tony B Dear
+
+NATURAL LANGUAGE PROCESSING
+
+Section 001 TR 5:40pm-6:55pm (106/96) Daniel Bauer
+Section 002 MW 5:40pm-6:55pm (74/78) Michael Collins (silver)
+
+COMPUTER VISION
+
+Section 001 MW 2:40pm-3:55pm (100/100) Carl Vondrick
+
+COMPUTATNL ASPECTS OF ROBOTICS
+
+Section 001 TR 11:40am-12:55pm (74/75) Peter K Allen
+
+MACHINE LEARNING
+
+Section 001 MW 2:40pm-3:55pm (0/130) Nakul Verma
+Section 002 MW 10:10am-11:25am (0/110) Daniel Hsu (silver)
+
+TOPICS IN COMPUTER SCIENCE
+
+Section 001 MW 7:10pm-8:25pm (79/80) Iddo Drori
+Section 002 MW 1:10pm-2:25pm (2/80) Nakul Verma
+Section 003 T 4:10pm-6:40pm (0/30) Paul S Blaer (silver)
+Section 004 T 6:10pm-8:00pm (42/40) Agnes Chang
+Section 005 R 7:00pm-9:30pm (28/75) Adam Kelleher
+Section 007 M 7:00pm-9:30pm (86/125) Bryan Gibson
+
+TOPICS IN SOFTWARE ENGINEERING
+
+Section 001 F 1:10pm-3:40pm (27/50) Donald F Ferguson
+
+ADVANCED INTERNET SERVICES
+
+Section 001 F 12:10pm-2:00pm (12/50) Henning G Schulzrinne
+
+INTRUSION DETECTION SYSTEMS
+
+Section 001 F 1:10pm-3:40pm (12/30) Salvatore J Stolfo
+
+HARDWARE SECURITY
+
+Section 001 F 12:10pm-2:00pm (16/30) Simha Sethumadhavan
+
+FOUNDATIONS OF GRAPHICL
+
+Section 001 TR 10:10am-11:25am (63/63) David Blei
+
+THESIS
+
+
+TECH WRITING FOR CS AND ENGINRS
+
+Section 001 MW 1:10pm-3:40pm (7/15) Janet Kayfetz
+Section 002 R 12:10pm-2:00pm (3/10) Janet Kayfetz
+
+TOPICS IN COMPUTER SCIENCE
+
+Section 003 R 7:00pm-9:30pm (60/60) Homayoon S Beigi
+Section 004 T 2:10pm-4:00pm (35/35) Augustin Chaintreau
+Section 005 T 6:10pm-8:00pm (13/35) Ronghui Gu
+Section 006 W 4:10pm-6:40pm (63/60) Christos H Papadimitriou
+Section 008 F 2:10pm-4:00pm (31/30) Lydia Chilton
+Section 009 R 8:10pm-10:00pm (41/60) Tristan Boutros
+Section 011 R 6:10pm-8:00pm (33/40) Tristan Boutros
+Section 012 W 4:10pm-6:00pm (39/60) Alp Kucukelbir
+Section 013 M 6:10pm-8:00pm (85/85) Sambit Sahu
+Section 014 F 10:10am-12:00pm (2/50) Vishal Misra
+
+GRADUATE RESEARCH II
+
