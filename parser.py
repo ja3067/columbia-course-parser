@@ -9,7 +9,6 @@ python parser.py http://www.columbia.edu/cu/bulletin/uwb/subj/HUMA/_Fall2018.htm
 
 """
 
-from selenium import webdriver
 from bs4 import BeautifulSoup
 import re
 import sys
@@ -1131,6 +1130,8 @@ class Section:
         return self.to_string()
 
 
+import requests
+
 if __name__ == "__main__":
     try:
         path = sys.argv[1]
@@ -1138,22 +1139,25 @@ if __name__ == "__main__":
         print("Please enter a valid web URL to the course directory page as the only command line argument.")
         exit(1)
 
-    driver = webdriver.Chrome()
     try:
-        driver.get(path)
+        message = requests.get(path)
+        assert( message.status_code == 200 )
+
     except:
         print("Your path was invalid. Please enter a valid path.")
         exit(1)
+
+    html = BeautifulSoup(message.text, 'html.parser')
 
     data = []
 
     p = re.compile('^\S+_([a-zA-Z]+)([0-9]+).html')
     semester = p.sub('\\1 \\2', path)
 
-    elems = driver.find_elements_by_tag_name('tr')
+    elems = html.find_all('tr')
     for e in elems:
         try:
-            s = Section(e.get_attribute('innerHTML'), semester)
+            s = Section(e.encode_contents(), semester)
             data.append(s)
         except:
             continue
@@ -1169,5 +1173,3 @@ if __name__ == "__main__":
 
             if section.is_header:
                 f.write("\n")
-
-    driver.close()
