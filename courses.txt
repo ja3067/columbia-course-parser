@@ -1,0 +1,216 @@
+Fall 2018 Subject: Computer Science
+
+
+Fall 2018 Computer Science W1002COMPUTING IN CONTEXT
+
+Section 001 TR 2:40pm-3:55pm (218/300) Adam H Cannon (silver)
+
+Fall 2018 Computer Science W1004INTRO-COMPUT SCI/PROG IN JAVA
+
+Section 001 TR 4:10pm-5:25pm (310/400) Adam H Cannon (silver)
+
+Fall 2018 Computer Science W1007 HONORS INTRO TO COMPUTER SCI
+
+Section 001 TR 1:10pm-2:25pm (43/80) John R Kender (silver)
+
+Fall 2018 Computer Science W1012COMPUTING IN CONTEXT REC
+
+Section 001 F 9:00am-9:50am (37/40) Adam H Cannon (silver)
+Section 002 F 12:10pm-1:00pm (36/40) Adam H Cannon (silver)
+Section 003 F 1:10pm-2:00pm (15/40) Adam H Cannon (silver)
+Section 004 F 2:10pm-3:00pm (17/40) Adam H Cannon (silver)
+Section 005 F 9:00am-9:50am (33/40) Adam H Cannon (silver)
+Section 006 F 12:10pm-1:00pm (37/40) Adam H Cannon (silver)
+Section 007 F 1:10pm-2:00pm (12/40) Adam H Cannon (silver)
+Section 008 F 2:10pm-3:00pm (9/40) Adam H Cannon (silver)
+Section 009 F 12:10pm-1:00pm (12/40) Adam H Cannon (silver)
+
+Fall 2018 Computer Science W1404EMERGING SCHOLARS PROG SEMINAR
+
+Section 001 F 11:30am-6:30pm (18/50) Adam H Cannon (silver)
+
+Fall 2018 Computer Science W3101PROGRAMMING LANGUAGES
+
+Section 001 R 6:10pm-8:00pm (10/30) Dimitri Kopaliani
+Section 002 R 6:10pm-8:00pm (33/46) Ramana Isukapalli
+Section 003 W 6:10pm-8:00pm (34/50) Lawrence Stead
+
+Fall 2018 Computer Science W3102DEVELOPMENT TECHNOLOGY
+
+Section 001 F 2:10pm-4:00pm (4/30) Gary Zamchick
+Section 002 F 2:10pm-4:00pm (10/30) Gary Zamchick
+Section 003 T 6:10pm-8:00pm (11/40) Robert E Coyne
+Section 004 W 6:10pm-8:00pm (33/40) Robert E Coyne
+Section 005 M 4:10pm-6:00pm (46/45) Andrew A Hitti
+
+Fall 2018 Computer Science W3134DATA STRUCTURES IN JAVA
+
+Section 001 MW 5:40pm-6:55pm (167/200) Paul S Blaer (silver)
+Section 002 TR 1:10pm-2:25pm (177/200) Paul S Blaer (silver)
+
+Fall 2018 Computer Science W3136ESSENTIAL DATA STRUCTURES
+
+Section 001 TR 5:40pm-6:55pm (39/120) Timothy K Paine
+
+Fall 2018 Computer Science W3157ADVANCED PROGRAMMING
+
+Section 001 TR 11:40am-12:55pm (144/225) Jae W Lee (silver)
+Section 002 TR 4:10pm-5:25pm (142/225) Jae W Lee (silver)
+
+Fall 2018 Computer Science W3203DISCRETE MATHEMATICS
+
+Section 001 TR 10:10am-11:25am (148/150) Ansaf Salleb-Aouissi
+Section 002 TR 11:40am-12:55pm (147/150) Ansaf Salleb-Aouissi
+
+Fall 2018 Computer Science W3261COMPUTER SCIENCE THEORY
+
+Section 001 MW 2:40pm-3:55pm (108/125) Xi Chen
+Section 002 MW 4:10pm-5:25pm (93/135) Xi Chen
+
+Fall 2018 Computer Science W4111INTRODUCTION TO DATABASES
+
+Section 001 F 10:10am-12:40pm (138/152) Donald F Ferguson
+Section 002 TR 4:10pm-5:25pm (110/150) Eugene Wu
+Section 003 M 4:10pm-6:40pm (75/80) Alexandros Biliris
+
+Fall 2018 Computer Science W4113FUND-LARGE-SCALE DIST SYSTEMS
+
+Section 001 MW 1:10pm-2:25pm (99/110) Roxana Geambasu
+
+Fall 2018 Computer Science W4115PROGRAMMING LANG & TRANSLATORS
+
+Section 001 MW 4:10pm-5:25pm (89/115) Stephen A Edwards (silver)
+Section 002 MW 1:10pm-2:25pm (8/54) Baishakhi Ray
+
+Fall 2018 Computer Science W4118OPERATING SYSTEMS I
+
+Section 001 TR 1:10pm-2:25pm (62/110) Jason Nieh (silver)
+
+Fall 2018 Computer Science W4156ADVANCED SOFTWARE ENGINEERING
+
+Section 001 TR 10:10am-11:25am (114/120) Gail E Kaiser
+
+Fall 2018 Computer Science W4167COMPUTER ANIMATION
+
+Section 001 T 4:10pm-6:00pm (52/67) Eitan Grinspun (silver)
+
+Fall 2018 Computer Science W4170USER INTERFACE DESIGN
+
+Section 001 TR 1:10pm-2:25pm (62/65) Steven K Feiner
+
+Fall 2018 Computer Science W4181SECURITY I
+
+Section 001 MW 2:40pm-3:55pm (60/70) Suman Jana
+
+Fall 2018 Computer Science W4186MALWARE ANALYSIS&REVERSE; ENGINEERING
+
+Section 001 R 4:10pm-6:40pm (20/30) Michael S Sikorski
+
+Fall 2018 Computer Science W4187SECURITY ARCH & ENGINEERING
+
+Section 001 F 10:10am-12:40pm (3/70) Debra L Cook
+
+Fall 2018 Computer Science W4236INTRO-COMPUTATIONAL COMPLEXITY
+
+Section 001 MW 10:10am-11:25am (34/50) Omri Weinstein
+
+Fall 2018 Computer Science W4252INTRO-COMPUTATIONAL LEARN THRY
+
+Section 001 TR 8:40am-9:55am (83/100) Rocco Servedio (gold)
+
+Fall 2018 Computer Science W4261INTRO TO CRYPTOGRAPHY
+
+Section 001 MW 7:10pm-8:25pm (72/100) Allison Bishop
+
+Fall 2018 Computer Science W4444PROGRAMMING & PROBLEM SOLVING
+
+Section 001 MW 1:10pm-2:25pm (24/30) Kenneth A Ross
+
+Fall 2018 Computer Science W4460PRIN-INNOVATN/ENTREPRENEURSHIP
+
+Section 001 F 10:10am-12:40pm (14/32) William Reinisch
+
+Fall 2018 Computer Science 84500FOUNDATIONS OF DATA SCIEN
+
+Section 001 MW 10:10am-11:25am (46/50) Yi Zhang
+
+Fall 2018 Computer Science 84560INTRO-COMP APPL-HLTH CRE/
+
+Section 001 MW 4:10pm-5:25pm (26 students as of October 20, 2018) Nicholas Tatonetti
+
+Fall 2018 Computer Science W4701ARTIFICIAL INTELLIGENCE
+
+Section 001 TR 10:10am-11:25am (189/189) Tony B Dear
+Section 002 TR 5:40pm-6:55pm (119/123) Tony B Dear
+
+Fall 2018 Computer Science W4705NATURAL LANGUAGE PROCESSING
+
+Section 001 TR 5:40pm-6:55pm (105/110) Daniel Bauer
+Section 002 MW 5:40pm-6:55pm (76/78) Michael Collins (silver)
+
+Fall 2018 Computer Science W4731COMPUTER VISION
+
+Section 001 MW 2:40pm-3:55pm (100/110) Carl Vondrick
+
+Fall 2018 Computer Science W4733COMPUTATNL ASPECTS OF ROBOTICS
+
+Section 001 TR 11:40am-12:55pm (66/75) Peter K Allen
+
+Fall 2018 Computer Science W4771MACHINE LEARNING
+
+Section 001 MW 2:40pm-3:55pm (141/155) Nakul Verma
+Section 002 MW 10:10am-11:25am (55/110) Daniel Hsu (silver)
+
+Fall 2018 Computer Science W4995TOPICS IN COMPUTER SCIENCE
+
+Section 001 MW 7:10pm-8:25pm (71/80) Iddo Drori
+Section 002 MW 1:10pm-2:25pm (45/80) Nakul Verma
+Section 004 T 6:10pm-8:00pm (34/40) Agnes Chang
+Section 005 R 7:00pm-9:30pm (24/75) Adam Kelleher
+Section 006 F 10:10am-12:40pm (116/125) Joshua B Gordon
+Section 007 M 7:00pm-9:30pm (101/125) Bryan Gibson
+Section 008 R 7:00pm-9:30pm (18/25) Amir Baradaran
+
+Fall 2018 Computer Science E6156TOPICS IN SOFTWARE ENGINEERING
+
+Section 001 F 1:10pm-3:40pm (68/70) Donald F Ferguson
+
+Fall 2018 Computer Science E6181ADVANCED INTERNET SERVICES
+
+Section 001 F 12:10pm-2:00pm (4/50) Henning G Schulzrinne
+
+Fall 2018 Computer Science E6185INTRUSION DETECTION SYSTEMS
+
+Section 001 F 1:10pm-3:40pm (9/30) Salvatore J Stolfo
+
+Fall 2018 Computer Science E6424HARDWARE SECURITY
+
+Section 001 F 12:10pm-2:00pm (6/30) Simha Sethumadhavan
+
+Fall 2018 Computer Science 86701FOUNDATIONS OF GRAPHICL
+
+Section 001 TR 8:40am-9:55am (61/75) David Blei
+
+Fall 2018 Computer Science E6902THESIS
+
+
+Fall 2018 Computer Science E6915TECH WRITING FOR CS AND ENGINRS
+
+Section 001 MW 1:10pm-3:40pm (8/15) Janet Kayfetz
+Section 002 R 12:10pm-2:00pm (9/10) Janet Kayfetz
+
+Fall 2018 Computer Science E6998TOPICS IN COMPUTER SCIENCE
+
+Section 003 R 7:00pm-9:30pm (34/60) Homayoon S Beigi
+Section 004 T 2:10pm-4:00pm (18/35) Augustin Chaintreau
+Section 005 T 6:10pm-8:00pm (10/35) Ronghui Gu
+Section 006 W 4:10pm-6:40pm (44/70) Christos H Papadimitriou
+Section 008 F 2:10pm-4:00pm (28/30) Lydia Chilton
+Section 009 R 8:10pm-10:00pm (35/40) Tristan Boutros
+Section 011 R 6:10pm-8:00pm (21/40) Tristan Boutros
+Section 012 W 4:10pm-6:00pm (25/60) Alp Kucukelbir
+Section 013 M 6:10pm-8:00pm (79/85) Sambit Sahu
+Section 014 F 10:10am-12:00pm (13/50) Vishal Misra
+
+Fall 2018 Computer Science E9911GRADUATE RESEARCH II
+

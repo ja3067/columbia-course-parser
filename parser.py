@@ -1081,7 +1081,7 @@ class Section:
 
             if len(course) != 0:
                 self.is_header = True
-                self.header = course[0].next.text
+                self.header = course[0].parent.text
 
                 self.professor = ""
                 self.section = ""
